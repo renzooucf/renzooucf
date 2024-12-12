@@ -3,7 +3,7 @@
 </p>
 
 <hr>
-<h1 align="center">Hola, Bienvenid@ a mi GitHub<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Bienvenido a mi mundo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 <h3 align="center">Estudiante de Ingeniería de Software | Apasionado por la Tecnología | Futuro Solucionador de Problemas</h3>
 
