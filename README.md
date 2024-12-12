@@ -21,7 +21,7 @@
     Un entusiasta <b>desarrollador de software</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y <b>aficionado a la tecnología</b>&nbsp;<br>
     Siempre <b>obsesionado</b> con la idea de <b>mejorar</b>, buscando un <b>espacio</b> para <b>crecer</b>  y <b>destacar</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
- 
+ </p align="center">
 
 
 
