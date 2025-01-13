@@ -8,7 +8,7 @@
 <h3 align="center">Estudiante de Ingeniería de Software | Apasionado por la Tecnología | Futuro Solucionador de Problemas</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="aksia" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/renzo-retuerto-b3a4092ba/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="aksia" height="50" width="50" /></a>
 <a href="https://www.instagram.com/renzoo_cf" target="blank">
   <img align="center" alt="renzoo_cf" height="50" width="50" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="Youtube" height="50" width="50" /></a>
